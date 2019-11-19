@@ -1,0 +1,73 @@
+{
+  "config": {
+    "title": "React Azhu Btn",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "props": [],
+  "entries": [
+    {
+      "key": "doc/button.mdx",
+      "value": {
+        "name": "Button",
+        "route": "/button",
+        "id": "b2b444a1656e0a131fce2d2068ae600d",
+        "filepath": "doc/button.mdx",
+        "link": "",
+        "slug": "doc-button",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "hello-world",
+            "depth": 1,
+            "value": "Hello world"
+          }
+        ]
+      }
+    },
+    {
+      "key": "doc/icon.mdx",
+      "value": {
+        "name": "Icon",
+        "route": "/icon",
+        "id": "d50f5cacf37a8eb027eeee3d102034e8",
+        "filepath": "doc/icon.mdx",
+        "link": "",
+        "slug": "doc-icon",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "hello-world",
+            "depth": 1,
+            "value": "Hello world"
+          }
+        ]
+      }
+    },
+    {
+      "key": "doc/layout.mdx",
+      "value": {
+        "name": "Layout",
+        "route": "/layout",
+        "id": "079704f17189a0b0ea53b99b0739dd9e",
+        "filepath": "doc/layout.mdx",
+        "link": "",
+        "slug": "doc-layout",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "hello-world",
+            "depth": 1,
+            "value": "Hello world"
+          }
+        ]
+      }
+    }
+  ]
+}
