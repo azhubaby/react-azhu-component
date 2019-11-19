@@ -6,9 +6,4 @@ import Container from './layout';
 import Col from './col';
 import Row from './row';
 
-export {
-    Button,
-    Container,
-    Col,
-    Row
-}
+export {Button, Container, Col, Row};
